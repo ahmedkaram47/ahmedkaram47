@@ -1,9 +1,5 @@
 # Ahmed Karam
-  
-**LinkedIn:** [www.linkedin.com/in/ahmedkaram47](https://www.linkedin.com/in/ahmedkaram47)  
-**DataCamp Portfolio:** [datacamp.com/portfolio/ahmedkaram4](https://www.datacamp.com/portfolio/ahmedkaram4)  
 
----
 
 ## 🎓 Education
 
@@ -143,6 +139,9 @@ Git, JUnit, Threads, GUI (Java Swing, C#), MySQL
 - English
 - Arabic
 - French
+
+**LinkedIn:** [www.linkedin.com/in/ahmedkaram47](https://www.linkedin.com/in/ahmedkaram47)  
+**DataCamp Portfolio:** [datacamp.com/portfolio/ahmedkaram4](https://www.datacamp.com/portfolio/ahmedkaram4)  
 
 
 <!--
