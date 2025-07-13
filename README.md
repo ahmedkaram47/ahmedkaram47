@@ -13,7 +13,7 @@ Expected Graduation: 06/2026
 
 ### AI Prompt Engineer  
 **Scale AI** (Remote)  
-*07/2024 - 10/2024*  
+*07/2024 - 07/2025*  
 - Reviewed, refined, and updated code to help train AI models.
 - C++, Java, Python, JavaScript, SQL
 
