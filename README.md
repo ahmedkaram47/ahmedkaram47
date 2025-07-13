@@ -12,7 +12,7 @@ Expected Graduation: 06/2026
 ## 💼 Experience
 
 ### AI Prompt Engineer  
-**Remotasks** (Remote)  
+**Scale AI** (Remote)  
 *07/2024 - 10/2024*  
 - Reviewed, refined, and updated code to help train AI models.
 - C++, Java, Python, JavaScript, SQL
