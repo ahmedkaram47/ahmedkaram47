@@ -14,9 +14,9 @@ Expected Graduation: 06/2026
 ### Backend & DevOps Engineer 
 **EgronX** (Remote . Egypt . Internship)
 *08/2025 - 10/2025*
- Building backend systems with Java & Spring Boot
- Gaining experience in DevOps, UI/UX , and software testing
- Practicing Agile methodologies, including Scrum and requirements engineering
+- Building backend systems with Java & Spring Boot
+- Gaining experience in DevOps, UI/UX , and software testing
+- Practicing Agile methodologies, including Scrum and requirements engineering
 
 ### AI/ML Engineer
 **Bitline AI** (Remote . Dubai,United Arab Emirates . Internship)
