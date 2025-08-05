@@ -140,7 +140,7 @@ Git, JUnit, Threads, GUI (Java Swing, C#), MySQL
 ## 📜 Certificates
 
 - **Associate Data Scientist** — DataCamp (90 Hours, 23 Courses)
-- Workshops:  
+- Workshops & Courses:  
   - Minders Databases & SQL  
   - C++ Data Structures & Algorithms  
   - C++ OOP  
