@@ -5,7 +5,6 @@
 
 **BSc in Computer Science & AI (Information Systems Department)**  
 *Cairo University, Giza*  
-Expected Graduation: 06/2026
 
 ---
 
