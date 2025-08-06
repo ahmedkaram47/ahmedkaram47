@@ -6,6 +6,7 @@
 **BSc in Computer Science & AI (Information Systems Department)**  
 *Cairo University, Giza*  
 
+
 ---
 
 ## 💼 Experience
@@ -17,17 +18,20 @@
 - Gaining experience in DevOps, UI/UX , and software testing
 - Practicing Agile methodologies, including Scrum and requirements engineering
 
+
 ### AI/ML Engineer
 **Bitline AI** (Remote . Dubai,United Arab Emirates . Internship)
 *07/2025 - 09/2025*
 - Worked on Speech-To-Text transcription in an AI learning assistant model
 - WhisperX LLM using Python (TensorFlow - PyTorch)
 
+
 ### AI Prompt Engineer  
 **Scale AI** (Remote . USA)  
 *10/2024 - 07/2025*  
 - Reviewed, refined, and updated code to help train AI models.
 - C++, Java, Python, JavaScript, SQL
+
 
 ### AI Prompt Engineer  
 **Alpha Techs** (Remote)  
@@ -36,6 +40,7 @@
 - C++, Python, Java, JavaScript, MySQL Queries, MSSQL Server Queries, SQLite
 
 ---
+
 
 ## 🛠️ Technical Skills
 
