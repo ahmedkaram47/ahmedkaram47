@@ -11,7 +11,7 @@
 
 ## 💼 Experience
 
-### Backend & DevOps Engineer 
+### Back-End & DevOps Engineer 
 **EgronX** (Remote . Egypt . Internship) 
 
 *08/2025 - 10/2025*
@@ -20,7 +20,7 @@
 - Practicing Agile methodologies, including Scrum and requirements engineering
 
 
-### Frontend Developer
+### Front-End Developer
 **Elevvo Pathways** (Remote . Egypt . Internship) 
 
 *08/2025 - 09/2025*
