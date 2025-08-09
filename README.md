@@ -19,6 +19,13 @@
 - Practicing Agile methodologies, including Scrum and requirements engineering
 
 
+### Frontend Developer
+**Elevvo Pathways** (Remote . Egypt . Internship)
+*08/2025 - 09/2025*
+- Built responsive, high-performance web interfaces using HTML, CSS, JavaScript, and React.JS 
+- Translated UI/UX designs into dynamic components, integrated APIs, and optimized for speed, usability, and cross-browser compatibility.
+
+
 ### AI/ML Engineer
 **Bitline AI** (Remote . Dubai,United Arab Emirates . Internship)
 *07/2025 - 09/2025*
