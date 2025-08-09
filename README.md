@@ -13,6 +13,7 @@
 
 ### Backend & DevOps Engineer 
 **EgronX** (Remote . Egypt . Internship) 
+
 *08/2025 - 10/2025*
 - Building backend systems with Java & Spring Boot
 - Gaining experience in DevOps, UI/UX , and software testing
@@ -21,6 +22,7 @@
 
 ### Frontend Developer
 **Elevvo Pathways** (Remote . Egypt . Internship) 
+
 *08/2025 - 09/2025*
 - Built responsive, high-performance web interfaces using HTML, CSS, JavaScript, and React.JS 
 - Translated UI/UX designs into dynamic components, integrated APIs, and optimized for speed, usability, and cross-browser compatibility.
@@ -28,6 +30,7 @@
 
 ### AI/ML Engineer
 **Bitline AI** (Remote . Dubai,United Arab Emirates . Internship) 
+
 *07/2025 - 09/2025*
 - Worked on Speech-To-Text transcription in an AI learning assistant model
 - WhisperX LLM using Python (TensorFlow - PyTorch)
