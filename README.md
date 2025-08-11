@@ -12,7 +12,7 @@
 ## 💼 Experience
 
 ### Back-End & DevOps Engineer 
-**EgronX** (Remote . Egypt . Internship) 
+**EgronX** (Hybrid . Egypt . Internship) 
 
 *08/2025 - 10/2025*
 - Building backend systems with Java & Spring Boot
