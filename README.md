@@ -40,18 +40,18 @@
 **Scale AI** (Remote . USA)  
 
 *10/2024 - 07/2025*  
--Responsible for reviewing, refining, and updating code to help train AI models.
--Reinforcement Learning from Human Feedback (RLHF)
--C++ , Java , Python , JavaScript , SQL
+- Responsible for reviewing, refining, and updating code to help train AI models.      
+- Reinforcement Learning from Human Feedback (RLHF)     
+- C++ , Java , Python , JavaScript , SQL
 
 
 ### AI Prompt Engineer  
 **Alpha Techs** (Remote)  
 
 *10/2024 - 12/2024*  
--Responsible for reviewing, refining, and updating code to help train AI models.
--Reinforcement Learning from Human Feedback (RLHF)
--C++ , Java , Python , JavaScript , SQL
+- Responsible for reviewing, refining, and updating code to help train AI models.
+- Reinforcement Learning from Human Feedback (RLHF)
+- C++ , Java , Python , JavaScript , SQL
 
 ---
 
