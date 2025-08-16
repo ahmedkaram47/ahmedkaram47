@@ -16,7 +16,7 @@
 
 *08/2025 - 10/2025*
 - Building backend systems with Java & Spring Boot
-- Gaining experience in DevOps (Git - Docker - Jenkins) , UI/UX , and Software Testing
+- Gaining experience in DevOps (Git - Docker - Jenkins - CI/CD) , UI/UX , and Software Testing
 - Practicing Agile methodologies, including Scrum and requirements engineering
 
 
