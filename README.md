@@ -12,7 +12,7 @@
 ## 💼 Experience
 
 ### Back-End & DevOps Engineer 
-**EgronX** (Hybrid . Giza,Egypt . Internship) 
+**EgronX** (Hybrid . Cairo , Egypt . Internship) 
 
 *08/2025 - 10/2025*
 - Building backend systems with Java & Spring Boot
@@ -29,7 +29,7 @@
 
 
 ### AI/ML Engineer
-**Bitline AI** (Remote . Dubai,United Arab Emirates . Internship) 
+**Bitline AI** (Remote . Dubai , United Arab Emirates . Internship) 
 
 *07/2025 - 09/2025*
 - Worked on Speech-To-Text transcription in an AI learning assistant model
