@@ -11,6 +11,13 @@
 
 ## 💼 Experience
 
+### AI/ML Engineer
+**Bitline AI** (Remote . Dubai , United Arab Emirates . Apprenticeship) 
+
+*09/2025 - Present*
+-Mistral 7B , Optical Character Recognition (OCR) , RAG
+
+
 ### Back-End & DevOps Engineer 
 **EgronX** (Hybrid . Cairo , Egypt . Internship) 
 
