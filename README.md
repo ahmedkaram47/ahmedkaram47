@@ -11,13 +11,6 @@
 
 ## 💼 Experience
 
-### AI/ML Engineer
-**Bitline AI** (Remote . Dubai , United Arab Emirates . Apprenticeship) 
-
-*09/2025 - Present*
-- Mistral 7B , Optical Character Recognition (OCR) , RAG
-
-
 ### Back-End & DevOps Engineer 
 **EgronX** (Hybrid . Cairo , Egypt . Internship) 
 
@@ -27,29 +20,30 @@
 - Practicing Agile methodologies, including Scrum and requirements engineering
 
 
+### AI/ML Engineer
+**Bitline AI** (Remote . Dubai , United Arab Emirates) 
+
+*07/2025 - 09/2025 . Internship* / *09/2025 - Present . Apprenticeship*
+- Worked on Speech-To-Text transcription in an AI learning assistant model
+- WhisperX LLM using Python (TensorFlow - PyTorch)
+- Mistral 7B , Optical Character Recognition (OCR) , RAG
+
+
+### AI Prompt Engineer  
+**Scale AI** (Remote . USA)  
+
+*10/2024 - Present*  
+- Responsible for reviewing, refining, and updating code to help train AI models.      
+- Reinforcement Learning from Human Feedback (RLHF)     
+- C++ , Java , Python , JavaScript , SQL
+
+
 ### Front-End Developer
 **Elevvo Pathways** (Remote . Egypt . Internship) 
 
 *08/2025 - 09/2025*
 - Built responsive, high-performance web interfaces using HTML, CSS, JavaScript, and React.JS 
 - Translated UI/UX designs into dynamic components, integrated APIs, and optimized for speed, usability, and cross-browser compatibility.
-
-
-### AI/ML Engineer
-**Bitline AI** (Remote . Dubai , United Arab Emirates . Internship) 
-
-*07/2025 - 09/2025*
-- Worked on Speech-To-Text transcription in an AI learning assistant model
-- WhisperX LLM using Python (TensorFlow - PyTorch)
-
-
-### AI Prompt Engineer  
-**Scale AI** (Remote . USA)  
-
-*10/2024 - 07/2025*  
-- Responsible for reviewing, refining, and updating code to help train AI models.      
-- Reinforcement Learning from Human Feedback (RLHF)     
-- C++ , Java , Python , JavaScript , SQL
 
 
 ### AI Prompt Engineer  
