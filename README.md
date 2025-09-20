@@ -23,7 +23,7 @@
 ### AI/ML Engineer
 **Bitline AI** (Remote . Dubai , United Arab Emirates) 
 
-(*07/2025 - 09/2025 . Internship*) / (*09/2025 - Present . Apprenticeship*)
+(*07/2025 - 09/2025 . Internship*) / (*09/2025 - Present . Part-Time*)
 - Worked on Speech-To-Text transcription in an AI learning assistant model
 - WhisperX LLM using Python (TensorFlow - PyTorch)
 - Mistral 7B , Optical Character Recognition (OCR) , RAG
