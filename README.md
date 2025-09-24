@@ -11,14 +11,6 @@
 
 ## 💼 Experience
 
-### Back-End & DevOps Engineer 
-**EgronX** (Hybrid . Cairo , Egypt . Internship) 
-
-*08/2025 - 10/2025*
-- Building backend systems with Java & Spring Boot
-- Gaining experience in DevOps (Git - Docker - Jenkins - CI/CD) , UI/UX , and Software Testing
-- Practicing Agile methodologies, including Scrum and requirements engineering
-
 
 ### AI/ML Engineer
 **Bitline AI** (Remote . Dubai , United Arab Emirates) 
@@ -27,6 +19,15 @@
 - Worked on Speech-To-Text transcription in an AI learning assistant model
 - WhisperX LLM using Python (TensorFlow - PyTorch)
 - Mistral 7B , Optical Character Recognition (OCR) , RAG
+
+
+### Back-End & DevOps Engineer 
+**EgronX** (Hybrid . Cairo , Egypt . Internship) 
+
+*08/2025 - 10/2025*
+- Building backend systems with Java & Spring Boot
+- Gaining experience in DevOps (Git - Docker - Jenkins - CI/CD) , UI/UX , and Software Testing
+- Practicing Agile methodologies, including Scrum and requirements engineering
 
 
 ### AI Prompt Engineer  
