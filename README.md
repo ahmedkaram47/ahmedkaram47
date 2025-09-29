@@ -12,6 +12,14 @@
 ## 💼 Experience
 
 
+### Team Lead Full-Stack Web Developer
+**G88 Films** (Remote . Toronto , Canada . Part-Time)
+
+*07/2025 - Present*
+- Lead an Amazing , Talented team of Web Developers and Web Designers to develop G88Films Website
+- Front-End using React JS , Back-End using PHP , MySQL
+- IT consulting services
+
 ### AI/ML Engineer
 **Bitline AI** (Remote . Dubai , United Arab Emirates) 
 
@@ -31,7 +39,7 @@
 
 
 ### AI Prompt Engineer  
-**Scale AI** (Remote . USA)  
+**Scale AI** (Remote . USA . Freelance)  
 
 *10/2024 - Present*  
 - Responsible for reviewing, refining, and updating code to help train AI models.      
