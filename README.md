@@ -166,7 +166,7 @@ Git, JUnit, Threads, GUI (Java Swing, C#), MySQL
 ---
 
 ## 📜 Certificates
-
+- **Software Development Training Program** - EgronX (2 Months . 08/2025 - 10/2025)
 - **Associate Data Scientist** — DataCamp (90 Hours, 23 Courses)
 - Workshops & Courses:  
   - Minders Databases & SQL  
