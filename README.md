@@ -26,7 +26,7 @@
 (*07/2025 - 09/2025 . Internship*) / (*09/2025 - 11/2025 . Part-Time*)
 - Worked on Speech-To-Text transcription in an AI learning assistant model
 - WhisperX LLM using Python (TensorFlow - PyTorch)
-- Mistral 7B , Optical Character Recognition (OCR) , RAG
+- Mistral 7B , Optical Character Recognition (OCR) , RAG , Multi-Threading , Live Microphone Capturing & Live Transcription
 
 
 ### Back-End & DevOps Engineer 
