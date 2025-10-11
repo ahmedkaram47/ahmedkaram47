@@ -16,7 +16,7 @@
 **G88 Films** (Remote . Toronto , Canada . Part-Time)
 
 *07/2025 - Present*
-- Lead an Amazing , Talented team of Web Developers and Web Designers to develop G88Films Website
+- Lead an Amazing,Talented team of Web Developers and Designers to develop g88films.com Website
 - Front-End using React JS , Back-End using PHP , MySQL
 - IT consulting services
 
@@ -62,6 +62,13 @@
 - Responsible for reviewing, refining, and updating code to help train AI models.
 - Reinforcement Learning from Human Feedback (RLHF)
 - C++ , Java , Python , JavaScript , SQL
+
+
+### Front-End Web Developer  
+**Elite Software and E-Web Consultants (ESEC)** (Remote . Internship) 
+
+**05/2024 - 06/2024**
+- Worked on developing the Front-End web interface of eseco.ca website using ReactJS
 
 ---
 
