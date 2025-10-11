@@ -47,7 +47,7 @@
 - C++ , Java , Python , JavaScript , SQL
 
 
-### Front-End Developer
+### Front-End Web Developer
 **Elevvo Pathways** (Remote . Egypt . Internship) 
 
 *08/2025 - 09/2025*
