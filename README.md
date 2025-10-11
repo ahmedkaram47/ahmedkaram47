@@ -55,15 +55,6 @@
 - Translated UI/UX designs into dynamic components, integrated APIs, and optimized for speed, usability, and cross-browser compatibility.
 
 
-### AI Prompt Engineer  
-**Alpha Techs** (Remote)  
-
-*07/2024 - 10/2024*  
-- Responsible for reviewing, refining, and updating code to help train AI models.
-- Reinforcement Learning from Human Feedback (RLHF)
-- C++ , Java , Python , JavaScript , SQL
-
-
 ### Front-End Web Developer  
 **Elite Software and E-Web Consultants (ESEC)** (Remote . Internship) 
 
