@@ -56,7 +56,7 @@
 
 
 ### Front-End Web Developer  
-**Elite Software and E-Web Consultants (ESEC)** (Remote . Internship) 
+**Elite Software and E-Web Consultants (ESEC)** (Remote . Egypt . Internship) 
 
 **05/2024 - 06/2024**
 - Worked on developing the Front-End web interface of eseco.ca website using ReactJS
