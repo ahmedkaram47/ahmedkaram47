@@ -38,7 +38,7 @@
 - Practicing Agile methodologies, including Scrum and requirements engineering
 
 
-### AI Prompt Engineer  
+### AI Training Engineer  
 **Scale AI** (Remote . USA . Freelance)  
 
 *10/2024 - Present*  
