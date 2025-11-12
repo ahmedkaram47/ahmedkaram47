@@ -39,7 +39,7 @@
 
 
 ### AI Training Engineer  
-**Scale AI** (Remote . USA . Freelance)  
+**Scale AI** (Remote . San Francisco, California, United States . Freelance)  
 
 *10/2024 - Present*  
 - Responsible for reviewing, refining, and updating code to help train AI models.      
