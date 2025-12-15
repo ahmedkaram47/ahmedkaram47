@@ -18,7 +18,7 @@
 *07/2025 - Present*
 - Lead an Amazing,Talented team of Web Developers and Designers to develop g88films.com Website
 - Front-End using React JS , Back-End using PHP , MySQL
-- IT consulting services
+- Dev-Ops , Deployment & Hosting , IT consulting services
 
 ### AI/ML Engineer
 **Bitline AI** (Remote . Dubai , United Arab Emirates) 
