@@ -80,7 +80,7 @@ C++, Java, Python, PHP, JavaScript, SQL, HTML/CSS
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Frameworks & Libraries:**  
-Django, Spring Boot, ReactJS, Laravel, Tailwind CSS, .NET
+Django, Spring Boot, ReactJS, Laravel, Tailwind CSS, .NET, Flask
 
 **Tools & Technologies:**  
 Git, JUnit, Threads, GUI (Java Swing, C#), MySQL
