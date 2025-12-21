@@ -83,7 +83,7 @@ C++, Java, Python, PHP, JavaScript, SQL, HTML/CSS
 Django, Spring Boot, ReactJS, Laravel, Tailwind CSS, .NET, Flask
 
 **Tools & Technologies:**  
-Git, JUnit, Threads, GUI (Java Swing, C#), MySQL
+Git, JUnit, Threads, GUI (Java Swing, C#), MySQL, MongoDB, NoSQL
 
 **Concepts:**  
 - Data Structures & Algorithms
@@ -156,7 +156,7 @@ Git, JUnit, Threads, GUI (Java Swing, C#), MySQL
 - Front-End: HTML, CSS, JavaScript, Tailwind CSS, ReactJS
 - Back-End: Node.js, PHP Laravel, Python Django, Java (Spring Boot)
 - API Development: RESTful APIs, JSON, Postman, JUnit, Java Database Connectivity
-- Databases: MySQL, SQL Server, T-SQL, Database Indexing
+- Databases: MySQL, SQL Server, T-SQL, MongoDB, NoSQL, Database Indexing
 - Version Control: Git, GitHub
 - Linux CLI, JFrame GUI (Java), .NET (C#)
 - Data Engineering & Analysis: ETL, Pandas, Matplotlib, Decision Support Systems
