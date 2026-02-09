@@ -53,7 +53,7 @@
 ### Data Annotator & AI Trainer 
 **Data Annotation** (Remote . New York, United States . Freelance)
 
-*4/2025 - 10/2025*
+*04/2025 - 10/2025*
  - Responsible for reviewing, refining, and updating code to help train AI models.
  - Reinforcement Learning from Human Feedback (RLHF)
  - Data Annotation & Data Entry
