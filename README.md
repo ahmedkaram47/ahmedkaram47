@@ -20,6 +20,18 @@
 - Front-End using React JS , Back-End using PHP , MySQL
 - Dev-Ops , Deployment & Hosting , IT consulting services
 
+
+### AI Training Engineer  
+**Scale AI** (Remote . San Francisco, California, United States . Freelance)  
+
+*10/2024 - Present*  
+- Developed and implemented advanced data structures and algorithms to solve 100+ complex problems.      
+- Machine Learning using Reinforcement Learning from Human Feedback (RLHF)    
+- Generated 300+ test cases, focusing on performance and edge cases.
+- Authored summaries and editorials for each problem to train the AI model to solve complex programming problems.
+- Conducted rigorous input data validation for training the AI model, leading to its continuous enhancement and optimization.
+
+
 ### AI/ML Engineer
 **Bitline AI** (Remote . Dubai , United Arab Emirates) 
 
@@ -38,13 +50,13 @@
 - Practicing Agile methodologies, including Scrum and requirements engineering
 
 
-### AI Training Engineer  
-**Scale AI** (Remote . San Francisco, California, United States . Freelance)  
+### Data Annotator & AI Trainer 
+**Data Annotation** (Remote . New York, United States . Freelance)
 
-*10/2024 - Present*  
-- Responsible for reviewing, refining, and updating code to help train AI models.      
-- Reinforcement Learning from Human Feedback (RLHF)     
-- C++ , Java , Python , JavaScript , SQL
+*4/2025 - 10/2025*
+ - Responsible for reviewing, refining, and updating code to help train AI models.
+ - Reinforcement Learning from Human Feedback (RLHF)
+ - Data Annotation & Data Entry
 
 
 ### Front-End Web Developer
