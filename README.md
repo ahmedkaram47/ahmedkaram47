@@ -21,16 +21,16 @@
 - Dev-Ops , Deployment & Hosting , IT consulting services
 
 
-### AI Training Engineer  
+### Oracle AI Training Engineer  
 **Scale AI** (Remote . San Francisco, California, United States . Freelance)  
 
 *10/2024 - Present*  
 - Developed and implemented advanced data structures and algorithms to solve 100+ complex problems.      
 - Machine Learning using Reinforcement Learning from Human Feedback (RLHF)    
-- Generated 300+ test cases, focusing on performance and edge cases.
+- Generated 1000+ test cases, focusing on performance and edge cases.
 - Authored summaries and editorials for each problem to train the AI model to solve complex programming problems.
 - Conducted rigorous input data validation for training the AI model, leading to its continuous enhancement and optimization.
-
+- Reached Oracle status as one of the most valuable AI trainers  
 
 ### AI/ML Engineer
 **Bitline AI** (Remote . Dubai , United Arab Emirates) 
