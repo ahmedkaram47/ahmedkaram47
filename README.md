@@ -24,7 +24,7 @@
 ### Oracle AI Training Engineer  
 **Scale AI** (Remote . San Francisco, California, United States . Freelance)  
 
-*10/2024 - Present*  
+*10/2024 - 06/2026*  
 - Developed and implemented advanced data structures and algorithms to solve 100+ complex problems.      
 - Machine Learning using Reinforcement Learning from Human Feedback (RLHF)    
 - Generated 1000+ test cases, focusing on performance and edge cases.
