@@ -15,7 +15,7 @@
 ### Team Lead Full-Stack Web Developer
 **G88 Films** (Remote . Toronto , Canada . Part-Time)
 
-*07/2025 - Present*
+*07/2025 - 07/2026*
 - Lead an Amazing,Talented team of Web Developers and Designers to develop g88films.com Website
 - Front-End using React JS , Back-End using PHP , MySQL
 - Dev-Ops , Deployment & Hosting , IT consulting services
