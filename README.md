@@ -6,6 +6,9 @@
 **BSc in Computer Science & AI (Information Systems Department)**  
 *Cairo University, Giza*  
 
+*Graduation Project – The Bridge* : Developed a video calling application integrating sign language recognition and speech
+recognition to improve communication accessibility for people with hearing and speech disabilities. Awarded an A+ grade
+for outstanding academic performance.
 
 ---
 
